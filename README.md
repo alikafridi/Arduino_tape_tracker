@@ -1,4 +1,4 @@
-Arduino_tape_tracker
+Arduino Tape Tracker
 ====================
 
 This code allows an arduino to help a car navigate a track using 5 analog light sensors on the car. It was a part of my final project 
